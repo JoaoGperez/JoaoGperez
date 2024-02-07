@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaoGperez
 - 👀 I’m interested in Java and Python
 - 🌱 I’m currently learning Java
-- 💞️ I’m in the forth semester of Software Engineering at PUC-Minas
+- 💞️ I’m in the fourth semester of Software Engineering at PUC-Minas
 - 📫 How to reach me jgpmgin31@gmail.com
 
 <!---
