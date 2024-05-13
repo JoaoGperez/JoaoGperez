@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoGperez
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in HTML, CSS and Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m in the fourth semester of Software Engineering at PUC-Minas
 - 📫 How to reach me jgpmgin31@gmail.com
 
